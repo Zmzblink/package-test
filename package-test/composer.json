@@ -15,5 +15,6 @@
         "psr-4": {
             "Zmzblink\\PackageTest\\": "src/"
         }
-    }
+    },
+	"version": "1.0",
 }
